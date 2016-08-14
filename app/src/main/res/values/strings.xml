@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GIT Example v01.00</string>
+    <string name="QQMensaje">Hola desde ejemplo GIT del curso 2 lección 3!</string>
 </resources>
